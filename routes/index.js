@@ -81,7 +81,7 @@ var csvStream = csv.parse({skipRows:1});
       
 
       res.redirect('/');
-      res.sendstatus(req.file);
+      res.send(req.file);
       
       //window.location.href = '/';
       

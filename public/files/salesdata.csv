@@ -1,7 +1,9 @@
 Customer Name,Item Description,Item Price,Quantity,Merchant Name,Merchant Address
 Jack Burton,Premium Cowboy Boots,149.99,1,Carpenter Outfitters,99 Factory Drive
-Ellen Ripley,Tank Top Undershirt,9.50,2,Hero Outlet,123 Main Street
+Ellen Ripley,Tank Top Undershirt,9.5,2,Hero Outlet,123 Main Street
 Lisbeth Salander,Black Hoodie,49.99,4,Stockholm Supplies,34 Other Avenue
-Butch Coolidge,Tank Top Undershirt,9.50,3,Hero Outlet,123 Main Street
-Ellen Ripley,Stomper Shoes,129.00,1,Parker Footwear,77 Main Street
-Duke Iko, Bomber Jacket, 56.00, 5, Parker Jackets, 123 Fake Street
+Butch Coolidge,Tank Top Undershirt,9.5,3,Hero Outlet,123 Main Street
+Ellen Ripley,Stomper Shoes,129,1,Parker Footwear,77 Main Street
+Duke Iko,Bomber Jacket,56,5,Parker Jackets,123 Fake Street
+Test Testerson,Big Hat,20,8,Big Hat Co.,123 Fake Street
+Lia Peerson,Big Boots,10,1,Big Boot Co,123 Fake Street
