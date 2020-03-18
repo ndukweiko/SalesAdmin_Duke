@@ -18,10 +18,6 @@ kill -9 port_number
 '''bash
 npm start
 '''
-##stop project on port 3000
-'''bash
-npm stop
-'''
 ##Site Instructions
 Select 'choose file' to send .csv file to server
 Select 'Import CSV' to import .csv file to mongo database. 
